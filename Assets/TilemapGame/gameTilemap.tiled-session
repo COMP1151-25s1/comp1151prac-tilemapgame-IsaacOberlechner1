@@ -1,0 +1,32 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Tilemap.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -122,
+                "y": -183.99999999999997
+            }
+        },
+        "Tilesheet v2.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "Tilesheet.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "Tilemap.tmx",
+        "Tilesheet v2.tsx",
+        "Tilesheet.tsx"
+    ]
+}

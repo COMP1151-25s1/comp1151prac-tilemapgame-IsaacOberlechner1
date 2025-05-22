@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.seanba.super-tiled2unity": {
-      "version": "file:C:/Users/46615962/Documents/Super Tiled 2 Unity",
+      "version": "file:/Users/isaacoberlechner/Downloads/com.seanba.super-tiled2unity",
       "depth": 0,
       "source": "local",
       "dependencies": {

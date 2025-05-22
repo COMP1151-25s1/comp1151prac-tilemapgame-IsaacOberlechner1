@@ -7,6 +7,10 @@
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "Tilesheet v2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
     },
     "last.imagePath": "/Users/isaacoberlechner/Documents/Unity/Uni/GitHub Repositories/comp1151prac-tilemapgame-IsaacOberlechner1/Assets/Tilemap Game/kenney_tiny-dungeon/Tilemap",
     "map.fixedSize": false,
@@ -17,9 +21,10 @@
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
+        "Tilesheet v2.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
-    "tileset.spacing": 1,
+    "tileset.spacing": 0,
     "tileset.tileSize": {
         "height": 16,
         "width": 16

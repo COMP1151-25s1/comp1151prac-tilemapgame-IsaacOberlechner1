@@ -106,7 +106,7 @@ GameObject:
   - component: {fileID: 9106750787975040432}
   - component: {fileID: 9058251292079356713}
   - component: {fileID: 4914898119774511368}
-  - component: {fileID: 8069131828020095936}
+  - component: {fileID: 3196176442479926687}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -236,12 +236,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 735665381705966219, guid: 85cd2f031ff8beb458f88a39b161c2c5, type: 3}
+  m_Sprite: {fileID: 7696261992249501476, guid: b243bdbcbd5d74063a8e162844636fea, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.18}
+  m_Size: {x: 0.16, y: 0.16}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -274,8 +274,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!70 &8069131828020095936
-CapsuleCollider2D:
+--- !u!58 &3196176442479926687
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -309,5 +309,4 @@ CapsuleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Size: {x: 0.18, y: 0.18}
-  m_Direction: 0
+  m_Radius: 0.08

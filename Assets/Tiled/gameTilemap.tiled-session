@@ -22,6 +22,14 @@
                 "x": -8,
                 "y": 61
             }
+        },
+        "TinyDungeon_Level.tmx": {
+            "scale": 2.93,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 0,
+                "y": -120.81911262798633
+            }
         }
     },
     "last.imagePath": "/Users/isaacoberlechner/Documents/Unity/Uni/GitHub Repositories/comp1151prac-tilemapgame-IsaacOberlechner1/Assets/Tilemap Game/kenney_tiny-dungeon/Tilemap",
